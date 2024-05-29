@@ -1,0 +1,20 @@
+.tabela-moda thead {
+    background-color: #bb86fc;
+    color: rgb(224, 224, 222);
+}
+.tabela-moda tbody {
+    background-color: #4c4b4d;
+    color:rgb(224, 224, 222) ;
+}
+
+.tabela-casa thead {
+    background-color: #00C4B4;
+    color: rgb(224, 224, 222);
+}
+.tabela-casa tbody {
+    background-color: #4c4b4d;
+    color: rgb(224, 224, 222)
+}
+.tabela-casa td, th{
+    padding: 5px;
+}
